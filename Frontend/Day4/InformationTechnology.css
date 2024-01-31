@@ -1,0 +1,48 @@
+/* InformationTechnology.css */
+
+.it-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 70px;
+    background-color: aliceblue;
+    
+  }
+  
+  .it-heading {
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .it-description {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .it-subheading {
+    color: #444;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .it-topic-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .it-topic-list li {
+    color: #555;
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  .it-di{
+    height: 100vh;
+    width: 100%;
+    background-color: #9c9c9c;
+  }
+  
+  /* Add more styles as needed */
+  
