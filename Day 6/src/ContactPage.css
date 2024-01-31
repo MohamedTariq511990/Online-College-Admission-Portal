@@ -1,0 +1,86 @@
+/* ContactPage.css */
+
+/* Container styling */
+.div[id='con'] {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: aqua;
+}
+
+.div[id='con']{
+  width: 500px;
+}
+
+/* Heading styles */
+h2[id='con'] {
+  color: #0e1114;
+  font-size: 28px;
+}
+
+h3 [id='con']{
+  color: #070707;
+  font-size: 24px;
+}
+
+/* Paragraph styles */
+p[id='con'] {
+  color: #141313;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+/* Contact information section */
+.contact-info[id='con'] {
+  background-color: #d2d5d3;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info p[id='con'] {
+  margin: 8px 0;
+}
+
+/* Feedback form section */
+.feedback-form[id='con'] {
+  background-color: #ed2626;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+}
+
+/* Form label styles */
+label [id='con']{
+  display: block;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+/* Input and textarea styles */
+input[id='con'],
+textarea[id='con'] {
+  width: 50%;
+  padding: 10px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Button styles */
+button[id='con'] {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 200px auto ;
+}
+
+button[id='con']:hover {
+  background-color: #0056b3;
+}
