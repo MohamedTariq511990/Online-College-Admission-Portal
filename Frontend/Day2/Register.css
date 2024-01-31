@@ -1,0 +1,60 @@
+/* Register.css */
+
+.back {
+  background-image: url("https://johnsonburgareaschooldistrict.net/wp-content/uploads/2023/03/College-Admission.webp");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.register-container {
+  background-color: #cae3d0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border-radius: 44px;
+  width: 300px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #09bce0;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 11px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+}
+
+button:hover {
+  background-color:  #09bce0;
+}
+
+p{
+  color: black;
+}
